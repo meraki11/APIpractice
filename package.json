@@ -1,7 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Sarah Erickson",
+	"description": "A project to demonstrate skill",
+	"keywords": [ "freecodecamp", "menu-planner", "food", "journal"],
+	"license": "MIT",
+	"version": "1.1.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"package-name": "version",
+		"express": "4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -10,6 +16,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"author": "Sarah Erickson"
+	}
 }
